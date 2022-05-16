@@ -5,6 +5,9 @@ amar." - [Machado de Assis](https://machado.mec.gov.br/)
 
 ---
 
+| Introdução | [Especificação de Requisitos](https://github.com/felipe-alves-dev/TeAmoMae/blob/main/docs/REQUISITOS.md) |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+
 ## Objetivo
 
 Com a proposta de automatizar o gerenciamento de lucros da minha mãe, decidi
