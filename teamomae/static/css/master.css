@@ -1,0 +1,20 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background-color: #f9fafb;
+  color: #111827;
+}
+
+@media screen and (min-width: 640px) {
+  body {
+    background: linear-gradient(
+      to right,
+      #0e9f6e 0%,
+      #0e9f6e 50%,
+      #f9fafb 50%,
+      #f9fafb 100%
+    );
+  }
+}
