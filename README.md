@@ -30,3 +30,4 @@ financeiro, fornecendo também mais informações disponíveis para consumo.
 
 - [EditorConfig](https://editorconfig.org/)
 - [Prettier](https://prettier.io/)
+- [wemake-python-styleguide](https://wemake-python-stylegui.de/)
